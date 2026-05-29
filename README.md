@@ -48,7 +48,7 @@ Run the analysis notebooks for phase detection and forecasting. Social media sig
 
 ## References
 
-B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Flaring Emotions, Hot Topics and Volatile Markets: Modelling the Impacts of the 2025 US Tariffs on Social Media Perspectives and Asset Returns," in *ACIS 2025 Proceedings*, 2025.
+B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Flaring Emotions, Hot Topics and Volatile Markets: Modelling the Impacts of the 2025 US Tariffs on Social Media Perspectives and Asset Returns," in *ACIS 2025 Proceedings*, 2025 [Online]. Available: https://aisel.aisnet.org/acis2025/263.
 
 <details>
 <summary>BibTeX</summary>
