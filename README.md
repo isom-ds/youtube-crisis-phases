@@ -6,9 +6,9 @@ Financial crises unfold in identifiable phases — pre-crisis, acute crisis, and
 
 ## Research Context
 - **Thesis:** *Epidemiology of Online Emotions* (Kok-Shun, 2026)
-- **Chapter:** Chapter 7 — Affective State Indices for Decision-Making
+- **Chapter:** Chapter 4 — Emotional Dynamics in Online Communities
 - **Contribution type:** Artefact (crisis phase detection and forecasting system)
-- **Associated paper:** "Flaring Emotions, Hot Topics and Volatile Markets: Modelling the Impacts of the 2025 US Tariffs on Social Media Perspectives and Asset Returns," ACIS 2025
+- **Associated paper:** "Can AI Learn to Surf the Wave of Emotions? Modelling Self-Organising Social Media Communities in Financial Crises," ACIS 2023
 
 ## Methods
 - YouTube social media signal extraction
@@ -48,18 +48,19 @@ Run the analysis notebooks for phase detection and forecasting. Social media sig
 
 ## References
 
-B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Flaring Emotions, Hot Topics and Volatile Markets: Modelling the Impacts of the 2025 US Tariffs on Social Media Perspectives and Asset Returns," in *ACIS 2025 Proceedings*, 2025 [Online]. Available: https://aisel.aisnet.org/acis2025/263.
+B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Can AI Learn to Surf the Wave of Emotions? Modelling Self-Organising Social Media Communities in Financial Crises," in *ACIS 2023 Proceedings*, vol. 79, 2023 [Online]. Available: https://aisel.aisnet.org/acis2023/79.
 
 <details>
 <summary>BibTeX</summary>
 
 ```bibtex
-@inproceedings{P9_kok-shun_flaring_2025,
-  title     = {Flaring {Emotions}, {Hot} {Topics} and {Volatile} {Markets}: {Modelling} the {Impacts} of the 2025 {US} {Tariffs} on {Social} {Media} {Perspectives} and {Asset} {Returns}},
-  booktitle = {{ACIS} 2025 {Proceedings}},
+@inproceedings{P1_kok-shun_can_2023,
+  title     = {Can {AI} {Learn} to {Surf} the {Wave} of {Emotions}? {Modelling} {Self}-{Organising} {Social} {Media} {Communities} in {Financial} {Crises}},
+  volume    = {79},
+  booktitle = {{ACIS} 2023 {Proceedings}},
   author    = {Kok-Shun, Brice Valentin and Chan, Johnny and Peko, Gabrielle and Sundaram, David},
-  year      = {2025},
-  url      = {https://aisel.aisnet.org/acis2025/263},
+  year      = {2023},
+  url      = {https://aisel.aisnet.org/acis2023/79},
 }
 ```
 
